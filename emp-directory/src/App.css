@@ -1,16 +1,16 @@
 body {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background: floralwhite !important;
+  font-family: 'Simonetta', cursive;
+  background: #dae6e5 !important;
 }
 
 h1 {
   text-align: center;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Simonetta', cursive;
 }
 
 header p {
   text-align: center;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Simonetta', cursive;
   font-size: 12;
 }
 
@@ -19,13 +19,13 @@ header {
 }
 
 Table {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Simonetta', cursive;
   text-decoration: none;
   font-weight: 100;
 }
 
 Form {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Simonetta', cursive;
   text-decoration: none;
   font-weight: 100;
 }

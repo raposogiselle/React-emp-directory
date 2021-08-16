@@ -115,8 +115,8 @@ render() {
   return (
       <div>
         <header>
-          <h1>Company Directory</h1>
-          <p>Scroll through the full roster below, use the sorting options to organize the list, and use the search field to find specific individuals.</p>
+          <h1>GR Employee Directory</h1>
+          <p>Scroll through the employee list below, use the sort to organize, and the search field to find specific employees.</p>
         </header>
         <div className='d-flex align-items-baseline justify-content-start ml-3'>
           <Form className="d-flex align-items-center">
